@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Brick-Breaker game (Team sitar)</h1>
+<h1 align="center">Brick-Breaker game</h1>
 
 <div align="center">
   <h3>
@@ -39,10 +39,6 @@
 - css
 
 ## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [Devsnest](https://www.devsnest.in/) hackerthon. The [Hackerthon](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build a brick-breaker game with features like
 
 - levels of the game 
 - lives per level
