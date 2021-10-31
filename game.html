@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>2DBreakout</title>
+    <link rel="stylesheet"
+          href="http://fonts.googleapis.com/css?family=Germania+One">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="arena1.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com/%22%3E">
+        <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div>
+        <div class="back">
+            <a href="index.html" class="home">HOME</a>
+            <a href="#" class="title"> Kick The Covid</a>
+        </div>
+    </div>
+    <div class="sound">
+        <img src="img/SOUND_ON.png"
+             alt=""
+             id="sound">
+    </div>
+
+    <div id="gameover">
+        <img src="img/youwon.png"
+             alt=""
+             id="youwon">
+        <img src="img/gameover.png"
+             alt=""
+             id="youlose"
+             width=200px
+             height=60%>
+        <div id="restart">Play Again!</div>
+    </div>
+    <div class="frame">
+        <canvas id="breakout"
+        width="600"
+        height="600"></canvas>
+        
+    </div>
+   
+
+    <script src="components.js"></script>
+    <script src="game.js"></script>
+</body>
+
+</html>
