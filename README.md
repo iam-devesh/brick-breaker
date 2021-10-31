@@ -7,10 +7,6 @@
     <a href="https://kick-the-covid.netlify.app/">
       Demo
     </a>
-    <span> | </span>
-    <a href="https://github.com/Audarya07/Brick-Breaker">
-      Solution
-    </a>
   </h3>
 </div>
 
@@ -46,4 +42,3 @@
 
 ## Contact
 
-<h1>powered by <span styles="color:blue" >team Sitar</span></h1>
